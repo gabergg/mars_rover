@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b6ea3410-ca49-4e86-8975-3ed68b6f4840" name="Gabe@GABELAPTOP 2013-05-10 06:33:14" runUser="GabeLaptop\Gabe" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b4204d14-bb82-430b-85df-e075814a44fe">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Gabe_GABELAPTOP 2013-05-10 06_33_14">
+      <DeploymentItem filename="C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\bin\Debug\marsRover.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-10T06:33:14.7439641-04:00" queuing="2013-05-10T06:33:16.0090365-04:00" start="2013-05-10T06:33:16.1130425-04:00" finish="2013-05-10T06:33:49.8359713-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="2" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="GABELAPTOP" outcome="Error" timestamp="2013-05-10T06:33:49.8339712-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod2" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" id="1265bfe2-95f8-9db6-141c-a5dcbab0587a">
+      <Execution id="8722534b-137c-4dc8-98ef-288aec7f8fa1" />
+      <TestMethod codeBase="C:/Projects/thoughtWorks/Final/final_2/marsRover/marsRoverTesting/bin/Debug/marsRoverTesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="marsRoverTesting.RoverTest, marsRoverTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" id="c5e4e0f4-5428-f5cf-677b-e0674ca723c7">
+      <Execution id="47631062-6762-4bb2-a9ac-3bf87cb8fb91" />
+      <TestMethod codeBase="C:/Projects/thoughtWorks/Final/final_2/marsRover/marsRoverTesting/bin/Debug/marsRoverTesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="marsRoverTesting.RoverTest, marsRoverTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" id="f3afbfe8-a921-ef21-f941-019248f0024d">
+      <Execution id="1e9a0d7d-1c1a-479f-931d-4c27e3f523e8" />
+      <TestMethod codeBase="C:/Projects/thoughtWorks/Final/final_2/marsRover/marsRoverTesting/bin/Debug/marsRoverTesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="marsRoverTesting.RoverTest, marsRoverTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1265bfe2-95f8-9db6-141c-a5dcbab0587a" executionId="8722534b-137c-4dc8-98ef-288aec7f8fa1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5e4e0f4-5428-f5cf-677b-e0674ca723c7" executionId="47631062-6762-4bb2-a9ac-3bf87cb8fb91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3afbfe8-a921-ef21-f941-019248f0024d" executionId="1e9a0d7d-1c1a-479f-931d-4c27e3f523e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8722534b-137c-4dc8-98ef-288aec7f8fa1" testId="1265bfe2-95f8-9db6-141c-a5dcbab0587a" testName="TestMethod2" computerName="GABELAPTOP" duration="00:00:33.6789263" startTime="2013-05-10T06:33:16.1570450-04:00" endTime="2013-05-10T06:33:49.8359713-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8722534b-137c-4dc8-98ef-288aec7f8fa1">
+    </UnitTestResult>
+    <UnitTestResult executionId="47631062-6762-4bb2-a9ac-3bf87cb8fb91" testId="c5e4e0f4-5428-f5cf-677b-e0674ca723c7" testName="TestMethod1" computerName="GABELAPTOP" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47631062-6762-4bb2-a9ac-3bf87cb8fb91">
+    </UnitTestResult>
+    <UnitTestResult executionId="1e9a0d7d-1c1a-479f-931d-4c27e3f523e8" testId="f3afbfe8-a921-ef21-f941-019248f0024d" testName="TestMethod3" computerName="GABELAPTOP" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e9a0d7d-1c1a-479f-931d-4c27e3f523e8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

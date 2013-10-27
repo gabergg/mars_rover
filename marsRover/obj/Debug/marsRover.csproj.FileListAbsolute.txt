@@ -1,0 +1,5 @@
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\bin\Debug\marsRover.dll
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\bin\Debug\marsRover.pdb
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\obj\Debug\marsRover.dll
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\obj\Debug\marsRover.pdb

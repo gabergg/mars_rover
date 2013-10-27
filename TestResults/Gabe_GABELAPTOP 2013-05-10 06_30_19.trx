@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="21e8a8a8-9b73-4ecd-9cb6-3661fde67542" name="Gabe@GABELAPTOP 2013-05-10 06:30:19" runUser="GabeLaptop\Gabe" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b4204d14-bb82-430b-85df-e075814a44fe">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Gabe_GABELAPTOP 2013-05-10 06_30_19">
+      <DeploymentItem filename="C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRover\bin\Debug\marsRover.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-10T06:30:19.1709219-04:00" queuing="2013-05-10T06:30:19.1919231-04:00" start="2013-05-10T06:30:19.2239250-04:00" finish="2013-05-10T06:30:19.6139473-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod2" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" id="1265bfe2-95f8-9db6-141c-a5dcbab0587a">
+      <Execution id="93fbecc9-ba02-41fe-8234-dfb51c86120b" />
+      <TestMethod codeBase="C:/Projects/thoughtWorks/Final/final_2/marsRover/marsRoverTesting/bin/Debug/marsRoverTesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="marsRoverTesting.RoverTest, marsRoverTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" id="c5e4e0f4-5428-f5cf-677b-e0674ca723c7">
+      <Execution id="fa5c3e82-068a-426a-badf-0a7ab060bb03" />
+      <TestMethod codeBase="C:/Projects/thoughtWorks/Final/final_2/marsRover/marsRoverTesting/bin/Debug/marsRoverTesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="marsRoverTesting.RoverTest, marsRoverTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" id="f3afbfe8-a921-ef21-f941-019248f0024d">
+      <Execution id="6efbaadb-a659-4390-88c0-98b70bfc344e" />
+      <TestMethod codeBase="C:/Projects/thoughtWorks/Final/final_2/marsRover/marsRoverTesting/bin/Debug/marsRoverTesting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="marsRoverTesting.RoverTest, marsRoverTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod3" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+    <TestList name="Lists of Results" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6" />
+    <TestList name="TestList" id="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+      <TestLinks>
+        <TestLink id="1265bfe2-95f8-9db6-141c-a5dcbab0587a" name="TestMethod2" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="c5e4e0f4-5428-f5cf-677b-e0674ca723c7" name="TestMethod1" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="f3afbfe8-a921-ef21-f941-019248f0024d" name="TestMethod3" storage="c:\projects\thoughtworks\final\final_2\marsrover\marsrovertesting\bin\debug\marsrovertesting.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+      </TestLinks>
+    </TestList>
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c5e4e0f4-5428-f5cf-677b-e0674ca723c7" executionId="fa5c3e82-068a-426a-badf-0a7ab060bb03" testListId="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" />
+    <TestEntry testId="1265bfe2-95f8-9db6-141c-a5dcbab0587a" executionId="93fbecc9-ba02-41fe-8234-dfb51c86120b" testListId="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" />
+    <TestEntry testId="f3afbfe8-a921-ef21-f941-019248f0024d" executionId="6efbaadb-a659-4390-88c0-98b70bfc344e" testListId="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fa5c3e82-068a-426a-badf-0a7ab060bb03" testId="c5e4e0f4-5428-f5cf-677b-e0674ca723c7" testName="TestMethod1" computerName="GABELAPTOP" duration="00:00:00.0251823" startTime="2013-05-10T06:30:19.2319254-04:00" endTime="2013-05-10T06:30:19.4889401-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" relativeResultsDirectory="fa5c3e82-068a-426a-badf-0a7ab060bb03">
+    </UnitTestResult>
+    <UnitTestResult executionId="93fbecc9-ba02-41fe-8234-dfb51c86120b" testId="1265bfe2-95f8-9db6-141c-a5dcbab0587a" testName="TestMethod2" computerName="GABELAPTOP" duration="00:00:00.0031762" startTime="2013-05-10T06:30:19.4969406-04:00" endTime="2013-05-10T06:30:19.5059411-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" relativeResultsDirectory="93fbecc9-ba02-41fe-8234-dfb51c86120b">
+    </UnitTestResult>
+    <UnitTestResult executionId="6efbaadb-a659-4390-88c0-98b70bfc344e" testId="f3afbfe8-a921-ef21-f941-019248f0024d" testName="TestMethod3" computerName="GABELAPTOP" duration="00:00:00.0007434" startTime="2013-05-10T06:30:19.5099413-04:00" endTime="2013-05-10T06:30:19.5169417-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="3f86f70a-8ad7-4ec9-bbf6-6012578d5c05" relativeResultsDirectory="6efbaadb-a659-4390-88c0-98b70bfc344e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

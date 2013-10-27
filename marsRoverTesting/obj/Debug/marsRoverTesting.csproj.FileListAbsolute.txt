@@ -1,0 +1,9 @@
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\bin\Debug\marsRoverTesting.dll
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\bin\Debug\marsRoverTesting.pdb
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\bin\Debug\marsRover.dll
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\bin\Debug\marsRover.pdb
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\bin\Debug\marsRover_Accessor.dll
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\bin\Debug\marsRover_Accessor.pdb
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\obj\Debug\marsRoverTesting.dll
+C:\Projects\thoughtWorks\Final\final_2\marsRover\marsRoverTesting\obj\Debug\marsRoverTesting.pdb
